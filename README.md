@@ -1,1 +1,2 @@
-Se puede ejecutar sin problemas el colab. No hay que subir ningún tipo de archivos ya que todos se descargan de Drive al correr la aplicación.
+La información de cada TP está en su subcarpeta correspondiente.
+Para ver el TP Final se debe ingresar a la carpeta TP2.
